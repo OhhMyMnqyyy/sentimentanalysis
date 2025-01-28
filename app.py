@@ -24,4 +24,3 @@ if review:
     else:
         st.markdown('<h3 style="color:red;">The sentiment is negative! 😞</h3>', unsafe_allow_html=True)
 
-streamlit run app.py
